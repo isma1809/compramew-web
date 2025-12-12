@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "SA3635U3Y9.es.ismaelvalle.compramew",
+        "paths": [
+          "/auth/*",
+          "/verify/*"
+        ]
+      }
+    ]
+  }
+}
